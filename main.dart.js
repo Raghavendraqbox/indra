@@ -25458,7 +25458,7 @@ atA:function atA(){},
 atB:function atB(){},
 atC:function atC(){},
 atD:function atD(){},
-auA(){var s=new A.a_3("https://vercel-lms.vercel.app",B.M6)
+auA(){var s=new A.a_3("https://vercel-lms-ii9p.vercel.app",B.M6)
 s=new A.a_2(s,B.mt)
 return new A.a_p(s,B.mt)},
 a_p:function a_p(a,b){this.a=a
@@ -85699,7 +85699,7 @@ r4(a,b){return this.YN(a,b)},
 YN(a,b){var s=0,r=A.Q(t.N),q,p=this,o,n,m,l,k,j,i
 var $async$r4=A.M(function(c,d){if(c===1)return A.N(d,r)
 while(true)switch(s){case 0:k=t.N
-j=A.at(["x-vercel-protection-bypass","jlNithzd11yeyieUPBtN2gRkllOzkRtA"],k,k)
+j=A.at(["x-vercel-protection-bypass","KucgsOKdsR6P4olTuj7u1wNycwURLkaX"],k,k)
 s=3
 return A.R(p.a.qo("/signup",B.bn.GH(A.at(["email",a,"password",b],k,t.z),null),j),$async$r4)
 case 3:i=d
@@ -85729,7 +85729,7 @@ amL(a,b){var s=0,r=A.Q(t.N),q,p=this,o,n,m,l,k,j,i,h,g
 var $async$uT=A.M(function(c,d){if(c===1)return A.N(d,r)
 while(true)switch(s){case 0:h=t.N
 g=A.z(h,h)
-g.m(0,"x-vercel-protection-bypass","jlNithzd11yeyieUPBtN2gRkllOzkRtA")
+g.m(0,"x-vercel-protection-bypass","KucgsOKdsR6P4olTuj7u1wNycwURLkaX")
 s=3
 return A.R(p.a.qo("/login",B.bn.GH(A.at(["email",a,"password",b],h,t.z),null),g),$async$uT)
 case 3:o=d
@@ -85761,7 +85761,7 @@ ui(){var s=0,r=A.Q(t.N),q,p=this,o,n
 var $async$ui=A.M(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:n=t.N
 n=A.z(n,n)
-n.m(0,"x-vercel-protection-bypass","jlNithzd11yeyieUPBtN2gRkllOzkRtA")
+n.m(0,"x-vercel-protection-bypass","KucgsOKdsR6P4olTuj7u1wNycwURLkaX")
 s=3
 return A.R(p.a.qL(0,"/profile",n),$async$ui)
 case 3:o=b
