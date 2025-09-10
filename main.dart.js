@@ -25458,7 +25458,7 @@ atA:function atA(){},
 atB:function atB(){},
 atC:function atC(){},
 atD:function atD(){},
-auA(){var s=new A.a_3("https://vercel-lms.vercel.app/",B.M6)
+auA(){var s=new A.a_3("https://vercel-lms.vercel.app",B.M6)
 s=new A.a_2(s,B.mt)
 return new A.a_p(s,B.mt)},
 a_p:function a_p(a,b){this.a=a
